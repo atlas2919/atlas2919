@@ -65,7 +65,7 @@
 
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atlas2919&theme=dark&hide_border=false" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atlas2919&theme=dark&hide_border=false&show_icons=true&count_private=true&ring_color=FF8C00" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atlas2919&theme=dark&hide_border=false&show_icons=true&count_private=true&ring_color=FF8C00" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atlas2919&theme=dark&hide_border=false&show_icons=true&ring_color=FF8C00" />
   <br><br>
 </td>
 
