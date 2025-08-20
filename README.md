@@ -32,7 +32,7 @@
     <li>🎓 I am currently studying <strong>Computer Science Engineering</strong> at <strong>Universidad San Francisco de Quito</strong> in Ecuador.</li>
     <li>🌐 Passionate about <strong>Web Development</strong>, <strong>App Development</strong>, <strong>Artificial Intelligence</strong>, <strong>Emerging Technologies</strong>, and <strong>Cybersecurity</strong>.</li>
     <li>💻 Currently enrolled in an <strong>Ethical Hacking</strong> course to enhance my skills in cybersecurity.</li>
-    <li>🚀 CTO at <strong>Clyra</strong> and member of my university's <strong>Innovation Club</strong>.</li>
+    <li>🚀 CTO at <strong>Clyra</strong></li>
     <li>🌍 Lives in <strong>Ecuador</strong>.</li>
 </ul>
 
